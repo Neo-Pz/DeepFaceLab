@@ -9,4 +9,3 @@ scipy==1.4.1
 colorama
 tensorflow-gpu==2.4.0
 tf2onnx==1.9.3
-numexpr==2.10.0
